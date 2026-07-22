@@ -1,0 +1,11 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"theme": "auto",
+	"color_scheme": "Packages/User/Dracula.tmTheme",
+	"font_face": "JetBrains Mono NL",
+	"font_size": 10,
+}
