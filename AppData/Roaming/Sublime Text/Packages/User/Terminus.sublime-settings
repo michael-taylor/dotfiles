@@ -1,5 +1,1 @@
-{
-	"default_config": {
-		"windows": "PowerShell Core"
-	}
-}
+{{- template "Sublime Text/Terminus.sublime-settings" . -}}

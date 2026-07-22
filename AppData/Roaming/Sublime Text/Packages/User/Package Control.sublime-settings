@@ -1,17 +1,1 @@
-{
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"A File Icon",
-		"AsciiDoc",
-		"EditorConfig",
-		"LSP",
-		"LSP-json",
-		"Package Control",
-		"rainbow_csv",
-		"Terminus",
-	],
-}
+{{- template "Sublime Text/Package Control.sublime-settings" . -}}

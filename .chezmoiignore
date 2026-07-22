@@ -1,0 +1,12 @@
+{{ if ne .chezmoi.os "darwin" }}
+# MacOS files
+
+{{ end }}
+{{ if ne .chezmoi.os "linux" }}
+# Linux files
+
+{{ end }}
+{{ if ne .chezmoi.os "windows" }}
+# Windows files
+Roaming/
+{{ end }}
