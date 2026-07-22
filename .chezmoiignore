@@ -2,10 +2,12 @@
 # MacOS files
 
 {{ end }}
+
 {{ if ne .chezmoi.os "linux" }}
 # Linux files
-
+.config/
 {{ end }}
+
 {{ if ne .chezmoi.os "windows" }}
 # Windows files
 Roaming/
