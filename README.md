@@ -24,7 +24,7 @@ Also, to make directory entries in Get-ChildItem output easier to read, the foll
 PROFILE will make the foreground text darker:
 
 ```
-$PSStyle.FileInfo.Directory = "`e[30;44m"
+$PSStyle.FileInfo.Directory="`e[94m"
 ```
 
 ### Sublime Text
