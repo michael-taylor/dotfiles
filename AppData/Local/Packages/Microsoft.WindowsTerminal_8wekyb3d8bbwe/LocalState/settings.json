@@ -32,7 +32,7 @@
         "defaults": {
             "colorScheme": "Dracula",
             "font": {
-                "face": "JetBrains Mono NL"
+                "face": "JetBrainsMono NF"
             }
         },
         "list": [

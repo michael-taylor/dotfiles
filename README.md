@@ -1,3 +1,8 @@
+## Requirements
+
+- JetBrains Mono Font: https://www.jetbrains.com/lp/mono/
+- JetBrains Mono Nerd Font: https://www.nerdfonts.com/font-downloads
+
 ## Notes
 
 ### Sublime Text

@@ -1,5 +1,8 @@
 {
 	"default_config": {
 		"windows": "PowerShell Core"
+	},
+	"view_settings": {
+		"font_face": "JetBrainsMono NF Regular"
 	}
 }
