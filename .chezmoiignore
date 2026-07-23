@@ -1,3 +1,6 @@
+# Don't install the README
+/README.md
+
 {{ if ne .chezmoi.os "darwin" }}
 # MacOS files
 
@@ -5,10 +8,10 @@
 
 {{ if ne .chezmoi.os "linux" }}
 # Linux files
-.config/
+/.config/
 {{ end }}
 
 {{ if ne .chezmoi.os "windows" }}
 # Windows files
-Roaming/
+/Roaming/
 {{ end }}
